@@ -1,3 +1,3 @@
 # Gradient-Checking
 
- I have implemented the method for numerically checking the derivatives computed by your code to make sure that your implementation is correct. Carrying out the derivative checking procedure significantly increases confidence in the correctness of your code.
+Gradient Checking is a method of manually calculating derivatives to verify whether one's implementation of backpropagation is correct. I have implemeted gradient checking in this particular piece of code along with along with backpropagation and then compared the values from the two methods.
